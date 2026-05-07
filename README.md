@@ -1,52 +1,61 @@
 # 👋 Hi, I'm Tanvi
 
-🔐 Cybersecurity Student passionate about Ethical Hacking, Vulnerability Assessment, and Network Security.
+🔐 Cybersecurity Student passionate about Ethical Hacking, Web Security, and Network Defense.
 
 ---
 
 # 🚀 Skills & Tools
 
 ## 🔴 Offensive Security
-- Kali Linux
-- Metasploit
-- Nmap
-- Burp Suite
+
+* Kali Linux
+* Metasploit
+* Nmap
+* Burp Suite
 
 ## 🔵 Defensive Security
-- Firewall & IDS
-- Wireshark
-- Tcpdump
+
+* Firewall & IDS
+* Wireshark
+* Tcpdump
 
 ## 🌐 Web Security
-- DVWA
-- OWASP Top 10
-- SQL Injection
-- XSS
+
+* DVWA
+* OWASP Top 10
+* SQL Injection
+* XSS
 
 ---
 
 # 🔥 Featured Projects
 
 ## 🔐 Network Penetration Testing Lab
+
 Performed reconnaissance, exploitation, and vulnerability analysis using Kali Linux and Metasploit.
 
-## 🔍 Vulnerability Assessment & Risk Analysis
-Identified and classified vulnerabilities using Metasploit Framework and Nmap.
+## 🛡️ Firewall & IDS Project
+
+Implemented firewall filtering and intrusion detection for suspicious traffic analysis.
 
 ## 🌐 Web Application Security using DVWA
-Demonstrated SQL Injection, XSS, Command Injection, and analyzed mitigation techniques.
 
-## 🛡️ Firewall & IDS Project
-Implemented firewall filtering and intrusion detection for suspicious network traffic monitoring.
+Demonstrated SQL Injection, XSS, and Command Injection vulnerabilities.
+
+## 🔍 Vulnerability Assessment
+
+Performed vulnerability analysis and risk classification using Metasploit Framework.
 
 ---
 
 # 🎯 Current Focus
-- SIEM & Log Monitoring
-- Splunk / ELK Stack
-- Blue Team Operations
+
+* SIEM & Log Monitoring
+* Splunk / ELK Stack
+* SOC Operations
 
 ---
+
 
 
 
