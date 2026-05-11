@@ -18,6 +18,7 @@
 * Firewall & IDS
 * Wireshark
 * Tcpdump
+  
 
 ## 🌐 Web Security
 
@@ -25,7 +26,13 @@
 * OWASP Top 10
 * SQL Injection
 * XSS
-
+  
+## 🤖 AI & Automation
+- Prompt Engineering
+- No-Code Development (Lovable)
+- Supabase Integration
+- Make.com Automation
+- Generative AI Tools
 ---
 
 # 🔥 Featured Projects
