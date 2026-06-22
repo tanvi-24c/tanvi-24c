@@ -55,17 +55,6 @@ Performed vulnerability analysis and risk classification using Metasploit Framew
 
 ---
 
-# 🎯 Current Focus
-
-* SIEM & Log Monitoring
-* Splunk / ELK Stack
-* SOC Operations
-
----
-
-
-
-
 ## 📫 Connect with me
 - LinkedIn: www.linkedin.com/in/tanvi2430
   
